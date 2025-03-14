@@ -7,19 +7,23 @@
 -->
 
 <!-- corpo del documento XML-->
-<elementoRadice>
-    <elementoFiglio>
-        <elementoAnnidato>
-        </elementoAnnidato>
-    </elementoFiglio>
-    <elementoFiglio>
-        <elementoAnnidato>
-            <elementoAnnidato>
-            <elementoFiglio>
-        </elementoAnnidato>
-    </elementoFiglio>
-        <elementoAnnidato><elementoFiglio></elementoFiglio>
-    </elementoFiglio>
-</elementoRadice>
+<root>
+    <saluto>
+        <p>
+        </p>
+    </sakuto>
+        <!-- [Fatal Error] doc.xml:14:7: The element type "saluto" must be terminated by the matching end-tag "</saluto>" -->
+    <scegli>
+        <err> testo con errore </err>
+        <cor> testo corretto &amp; 10 </cor>
+        <htmlCode>
+            <!-- il codice HTML non viene validato -->
+            <![CDATA[
+                <h1>Capitolo Primo</h1>
+                <h2>Sezione Seconda</h2>
+            ]]>
+        </htmlCode>
+    </scegli>
+</root>
 
 <!-- epilogo -->
