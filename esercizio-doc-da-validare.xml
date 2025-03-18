@@ -13,6 +13,7 @@
             <!-- Aggiunto elemento figlio -->
         </p>
     </sakuto>
+        <!-- java -cp .\xerces-2_12_2-xml-schema-1.1\* dom.Counter ..\doc.xml-->
         <!-- [Fatal Error] doc.xml:14:7: The element type "saluto" must be terminated by the matching end-tag "</saluto>" -->
     <scegli>
         <!-- Aggiunto elemento fratello -->
