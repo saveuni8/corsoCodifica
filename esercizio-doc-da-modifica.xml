@@ -10,7 +10,11 @@
 <elementoRadice>
     <elementoFiglio>
         <elementoAnnidato>
+            <!-- Aggiungo elemento figlio (child) -->
+            <elementoFiglio></elementoFiglio>
         </elementoAnnidato>
+        <!-- Aggiungo elemento fratello (sibling) -->
+    <elementoFratello></elementoFratello>
     </elementoFiglio>
     <elementoFiglio>
         <elementoAnnidato>
