@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <primoFiglio>
+  <secondoFiglio>
+    <terzoFiglio>
+      <!-- [Fatal Error] doc.xml:6:5: The element type "terzoFiglio" must be terminated by the matching end-tag "</terzoFiglio>"
+      Aggiunto tag di chiusura terzoFiglio -->
+    </terzoFiglio>
+  </primoFiglio>
+</root>
