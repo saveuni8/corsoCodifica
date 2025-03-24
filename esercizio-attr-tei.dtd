@@ -3,8 +3,8 @@
 <!ELEMENT facsimile (#PCDATA)>
 <!ELEMENT testo (#PCDATA, seg?)>
 <!ATTLIST header type fixed CDATA "intestazione">
-<!ATTLIST header lang NMTOKEN>
+<!ATTLIST header lang NMTOKEN #IMPLIED>
 <!ATTLIST facsimile source #REQUIRED>
-<!ATTLIST facsimile ref IDREFS>
+<!ATTLIST facsimile ref IDREFS #IMPLIED>
 <!ATTLIST testo id ID #REQUIRED>
-<!ATTLIST testo type PCDATA>
+<!ATTLIST testo type PCDATA #IMPLIED>
