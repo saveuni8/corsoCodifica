@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "doctype.dtd"
+        [
+            <!ELEMENT ciao (elem+)>
+            <!ELEMENT elem (#PCDATA)>
+            <!ATTLIST elem id ID #REQUIRED>
+            <!ATTLIST elem nome #PCDATA #IMPLIED>
+        ]        
+>
+<!--?xml-model href="doctype.dtd" type="application/xml-dtd"?-->
+<root>
+<ciao>
+  <elem id="1"> elemento </elem>
+  <elem id="2" nome="secondo"> altro elemento </elem>
+</ciao>
+
+</root>
