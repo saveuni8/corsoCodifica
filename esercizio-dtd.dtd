@@ -1,0 +1,5 @@
+<!DOCTYPE root>
+<!ELEMENT ciao (elem+)>
+<!ELEMENT elem (#PCDATA)>
+<!ATTLIST elem id ID #REQUIRED>
+<!ATTLIST elem nome CDATA #IMPLIED>
