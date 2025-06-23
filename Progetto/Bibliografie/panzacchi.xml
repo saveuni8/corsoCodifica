@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<!-- Da rivedere _la Bibl dovrebbe riguardare l'opera recensita?) -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.0.1">
+  <teiHeader>
+    <!-- <encodingDesc></encodingDesc> -->
+    <fileDesc>
+      <titleStmt>
+        <title>LE NUOVE POESIE DI GIOSUè CARDUCCI</title>
+        <author ref="#mantegazza">Enrico Panzacchi</author>
+        <respStmt>
+          <resp>Conversione TEI P5 a cura di</resp>
+          <name>S. Solimani,</name> 
+          <name>E. Sardo</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>La Rassegna Settimanale</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date when="1879">1879</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">Le nuove poesie di Giosuè Carducci - Studio</title>
+  <author ref="#panzacchi">Enrico Panzacchi</author>
+  <title level="j">Rassegna Settimanale</title>
+  <biblScope unit="volume">3</biblScope>
+  <biblScope unit="issue">62</biblScope>
+  <date when="1879">1879</date>
+  <biblScope unit="page" from="194" to="194">194</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+  <body>
+  <div type="article">
+  <p facs="#p1">Questo studio del <persName>Panzacchi</persName> serve di prefazione alla 
+  terza edizione delle <!--citato--><bibl><title>Nuove Poesie</title></bibl><!--titolo--> di <persName ref="#carducci">G. Carducci</persName>.</p>
+  <p facs="#p2">Benchè ammiratore del <persName ref="#carducci">Carducci</persName>, il <persName>Panzacchi</persName> esamina 
+  spassionatamente l'opera letteraria di <persName ref="#carducci">lui</persName> e fra tante voci 
+  diverse di avversari e lodatori che il <persName ref="#carducci">Carducci</persName> ha suscitate, 
+  era tempo di sentirlo giudicare al puro lume della ragione 
+  e dell'arte, senza prevenzioni di scuole o di partiti.</p>
+  <p facs="#p3">Crediamo noi pure col <persName>Panzacchi</persName> che il <persName ref="#carducci">Carducci</persName> sia uno 
+  dei fattori principali di quel qualsiasi moto letterario, che 
+  è ricominciato in <placeName>talia</placeName> da qualche anno.</p> 
+  <p facs="#p4">Se non che, a parer 
+  nostro, esso vi ha maggior attinenza come critico e come 
+  professore, che come poeta.</p>
+  <p facs="#p5">Il <persName ref="#carducci">Carducci</persName><!--appellatvo--> poeta<!--autore--> pare a noi 
+  più solitario, che non al <persName>Panzacchi</persName>, e la <!--metafora-->inondazione di 
+  cattiva poeticheria<!--o figura retorica-->, che ci va affliggendo arrechiamo piuttosto ad altre cagioni, a quella <orig>in ispecie</orig>, che indica il <persName>Gautier</persName> 
+  ed il <persName>Panzacchi</persName> ricorda: <quote>n'ètant bon à rien, je me suis mis à 
+  faire des vers</quote>.</p> 
+  <p facs="#p6">E vero bensì che la perseveranza lunga del 
+  <persName ref="#carducci">Carducci</persName> a far l'arte <quote>sibi, musis et paucis amicis</quote>, in mezzo 
+  alle indifferenze del pubblico ed alle astiosità della critica, 
+  ha finalmente costretta questa povera <placeName>Italia</placeName>, stordita di 
+  chiacchiere e di tasse, ad accorgersi che essa possedeva un
+  <!-- Nota dell'autore: È vero che assai poche sono le poesie narrative italiane, non però mancano affatto: giacchè se ne trovano nelle raccolte del Mar-coaldi, del Bernoni, del Bolza, del Ferraro, del Giannandrea e di altri. Certo è a desiderare che venga alla luce la collezione di Canti Piemontesi del Nigra dove molte se ne troveranno, essendo il canto narrativo più proprio dell'talia Superiore, e, a giudicare da' saggi pubblicati, questa raccolta, per copia di varianti e ricchezza di paralleli, sarà molto utile agli studiosi.-->
+  <lb n="194"/>
+  ingegno poetico di prim'ordine, un artista finissimo, che, alleando le eterne giovinezza dei classici alle potenti sentimentalità dell'arte moderna, sapeva trarne nuove armonie 
+  e nuove forme.</p>
+  <p facs="#p7"><quote>« Gli stadi ormai celebri di questa via, scrive 
+  il <persName>Panzacchi</persName>, sono tanti libri di versi che s'intitolano 
+  <!--citazioni--><bibl><title>Juvenilia</title></bibl>, <bibl><title>Levia-Gravia</title></bibl>, <bibl><title>Decennalia</title></bibl> e <bibl><title>Nuove Poesie</title></bibl>.<!--bibliografiche--> »</quote></p> 
+  <p facs="#p8">In quest'ultime la fusione, per così dire, dell'elemento classico col 
+  moderno nella poesia del <persName ref="#carducci">Carducci</persName> è completa. Il sentimento 
+  è più personale, più profondo, più vero. La natura è osser-
+  vata in sè stessa e rifatta come il poeta l'ha osservata; 
+  <quote>« gli occhi cercano davvero per l'azzurro infinito i falchi rotanti e le cupole splendenti nell'occaso; o veramente vi viene dai prati col fantasma verde di un silenzio divino 
+  l'odore del timo e dell'erba medica. Anche un breve andare, 
+  e saremo ai paesaggi viventi dell'<!-- citazione --><bibl><title>Odi Barbare</title></bibl><!--bibliografica-->. »</quote></p> 
+  <p facs="#p9">Abbiamo 
+  trascritte le parole del <persName>Panzacchi</persName>, perchè non si potrebbe 
+  dire nè più nè meglio di così, e perchè fanno ragione anche 
+  all'accusa di imitatore, data al <persName ref="#carducci">Carducci</persName>, prima degli esemplari classici e poi dei moderni più celebri.</p> 
+  <p facs="#p10">Se da questi 
+  pigliò intonazioni e movenze nuove, non rimase però meno 
+  spiccata la sua personalità singolarissima e la più vera 
+  attinenza, che ha, per esempio, coll'<persName ref="#heine">Heine</persName>, è quella d'essersi 
+  fatto in <placeName>Italia</placeName> assalitore della scuola derivata dal <persName ref="#manzoni">Manzoni</persName>, 
+  come l'<persName ref="#heine">Heine</persName> lo fa in <placeName>Germania</placeName> di quella degli <persName>Schlegel</persName> e 
+  compagni.</p>
+  <p facs="#p11">Al giacobinismo politico del <persName ref="#carducci">Carducci</persName>, spiaciuto all'<persName ref="#hillebrand">Hillebrand</persName>, noi pure saremmo meno indulgenti di quello 
+  sia il <persName>Panzacchi</persName>, il quale, dando troppo alle ragioni dell'arte, le toglie quasi, <note type="commento">ci sembra</note>, ogni responsabilità morale 
+  e per tal modo la sequestra un po' troppo dalla vita.</p>
+  <p facs="#p12">Il <persName>Panzacchi</persName> però, come critico, dice benissimo, quando 
+  nota che la politica infiammò l'anima del poeta e la preservò dallo smarrirsi in un leopardianismo <quote>« riflesso, rimasticato e pochissimo promettente perchè, a non esser ciechi, bisogna accorgersi che, proseguendo ancora di qualche passo 
+  sulla via del pessimismo di <persName ref="#leopardi">Giacomo Leopardi</persName>, s'arriva al 
+  mare o al deserto. »</quote></p> 
+  <p facs="#p13">Del resto il tempo di fare una critica 
+  completa del <persName ref="#carducci">Carducci</persName><!--appellatvo--> poeta<!--autore--> non è ancora venuto. Certe 
+  esteriorità sue, che oggi più appassionano gli scolaretti pro 
+  e contro di <persName ref="#carducci">lui</persName>, scemeranno col tempo di vigore e di forza.</p>
+  <p facs="#p14">Certe iracondie, che oggi turbano talvolta la serenità dell'arte sua, perderanno colpo col tempo sull'animo dei lettori. <quote>« A me, conclude il <persName>Panzacchi</persName>, che ammiro in <persName ref="#carducci">Carducci</persName><!--appellatvo--> l'artista<!--autore--> e stimo l'uomo, fa grande contentezza il vedere, com'egli si vada sempre meglio apparecchiando a 
+  questo futuro sindacato con grande alacrità di propositi e 
+  vera nobiltà d'intendimenti. »</quote></p>
+  <p facs="#p15">Il discorso di <persName>Enrico Panzacchi</persName> è un vero modello di 
+  quella critica letteraria, larga, obbiettiva, impersonale, di 
+  cui s'ha in <placeName>Italia</placeName> <orig>sì</orig> scarsi esempi. Un solo appunto ci occorre ed è la <orig>scorrezione</orig> della stampa.</p> 
+  <p facs="#p16">Il <persName>Panzacchi</persName> risponderà forse che la stampa delle sue <!-- citazione --><bibl><title>Lyrica</title></bibl><!-- bibliografica --> non era corretta 
+  meglio. <note type="commento">Ma passi nel poeta </note>. Nel critico le distrazioni non 
+  si presumono e non si perdonano.</p>
+  </div>
+  </body>
+  </text>
+  <facsimile>
+  <surface xml:id="img1" n="1" facs="Panzacchi-1.png">
+    <zone xml:id="p1" ulx="0" uly="0" lrx="279" lry="50"/>
+    <zone xml:id="p2" ulx="0" uly="51" lrx="279" lry="107"/>
+    <zone xml:id="p3" ulx="0" uly="109" lrx="279" lry="142"/>
+    <zone xml:id="p4" ulx="0" uly="132" lrx="279" lry="160"/>
+    <zone xml:id="p5" ulx="0" uly="151" lrx="279" lry="220"/>
+    <zone xml:id="p6" ulx="0" uly="211" lrx="279" lry="335"/>
+  </surface>
+  <surface xml:id="img2" n="2" facs="Panzacchi-2.png">
+    <zone xml:id="p7" ulx="0" uly="40" lrx="270" lry="75"/>
+    <zone xml:id="p8" ulx="0" uly="65" lrx="270" lry="179"/>
+    <zone xml:id="p9" ulx="0" uly="171" lrx="270" lry="224"/>
+    <zone xml:id="p10" ulx="0" uly="213" lrx="270" lry="293"/>
+    <zone xml:id="p11" ulx="0" uly="286" lrx="270" lry="340"/>
+    <zone xml:id="p12" ulx="0" uly="341" lrx="270" lry="419"/>
+    <zone xml:id="p13" ulx="0" uly="411" lrx="270" lry="453"/>
+    <zone xml:id="p14" ulx="0" uly="453" lrx="270" lry="534"/>
+    <zone xml:id="p15" ulx="0" uly="536" lrx="270" lry="580"/>
+    <zone xml:id="p16" ulx="0" uly="570" lrx="270" lry="615"/>
+  </surface>
+  <!--ulx, uly: coordinate dell’angolo in alto a sinistra della zona.
+lrx, lry: coordinate dell’angolo in basso a destra-->
+</facsimile>
+  </TEI>

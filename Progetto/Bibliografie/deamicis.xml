@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<!-- <?xml-model href="tei-lite.rng"?> -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.0.1">
+  <teiHeader>
+    <!-- <encodingDesc></encodingDesc> Elemento <encodingDesc>: È commentato nel tuo esempio. Se hai informazioni sull'encoding del documento, come il software utilizzato per la codifica, dovresti includerle qui.
+
+Elemento <date>: Hai due elementi <date>: uno all'interno di <publicationStmt> e uno all'interno di <bibl>. Assicurati che entrambi siano coerenti e che rappresentino correttamente la data di pubblicazione.
+
+Elemento <idno>: Potresti voler includere un identificatore univoco per il documento, come un DOI o un altro identificatore, se disponibile.-->
+    <fileDesc>
+      <titleStmt>
+        <title>RICORDI DI PARIGI</title>
+        <author ref="#amicis">Edmondo De Amicis</author>
+        <respStmt>
+          <resp>Conversione TEI P5 a cura di</resp>
+          <name>S. Solimani,</name> 
+          <name>E. Sardo</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>La Rassegna Settimanale</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date when="1879">2 Febbraio '79</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">Ricordi di Parigi</title>
+          <author ref="#deamicis">Edmondo De Amicis</author>
+          <title level="j">Rassegna Settimanale</title>
+          <biblScope unit="volume">3</biblScope>
+          <biblScope unit="issue">57</biblScope>
+          <date when="1879">1879</date>
+          <biblScope unit="page" from="97" to="97">97</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+  <body>
+  <div type="article">
+  <head>RICORDI DI PARIGI</head>
+  <p facs="#p1">EDMONDO DE AMCS. <bibl><title>Ricordi di Parigi</title></bibl>, <placeName>Milano</placeName>, Treves, 1_79</p>
+  </div>
+  </body>
+  </text>
+  <!--<facsimile>
+  <surface>
+  </surface>
+  </facsimile>-->
+  </TEI>
