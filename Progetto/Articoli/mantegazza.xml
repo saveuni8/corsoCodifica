@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<!-- <?xml-model href="tei-lite.rng"?> -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.0.1">
+  <teiHeader>
+    <!-- <encodingDesc></encodingDesc> -->
+    <fileDesc>
+      <titleStmt>
+        <title>IL DENTE DELLA SAPIENZA E IL DARWINISMO</title>
+        <author ref="#mantegazza">Paolo Mantegazza</author>
+        <respStmt>
+          <resp>Conversione TEI P5 a cura di</resp>
+          <name>S. Solimani,</name> 
+          <name>E. Sardo</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>La Rassegna Settimanale</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date when="1879"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">Il dente della sapienza e il darwinismo</title>
+          <author ref="#mantegazza">Paolo Mantegazza</author>
+          <title level="j">Rassegna Settimanale</title>
+          <biblScope unit="volume">3</biblScope>
+          <biblScope unit="issue">54</biblScope>
+          <date when="1879">1879</date>
+          <biblScope unit="page" from="34" to="35">34–35</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+  <body>
+  <!--<div type="article" xml:id="art-dente-sapienza">
+  <head>IL DENTE DELLA SAPIENZA E IL DARWINISMO</head>-->
+<div>
+<p facs="#p1"><bibl><title>IL DENTE DELLA SAPIENZA E IL DARWINISMO</title></bibl></p>
+</div>
+<div>
+  <p facs="#p2">L'interessante <name>articolo</name> del <persName><abbr type="titolo">dott.</abbr> Levier</persName> <bibl><title level="a">Sui tulipani di Firenze e il darwinismo</title> (<title level="j">Rassegna</title> <biblScope unit="volume">Vol. 2</biblScope>, <biblScope unit="page" from="287" to="287">pag. 287</biblScope>)</bibl> mi ha suggerito di richiamare l'attenzione dei <name>lettori</name> di questo <name>giornale</name> sopra un altro fatto di <name>evoluzionismo</name> progressivo che si verifica sotto i nostri stessi <name>occhi</name> nel <name>campo</name> zoologico, anzi
+  nel <name>campo</name> umano.</p> 
+  </div>
+  <div>
+  <p facs="#p3">
+  I più arrabbiati <name>avversari</name> dell'<name>evoluzionismo</name> vanno sempre sfidandoci a citare <name>fatti</name> moderni, anzi
+  contemporanei dei quali <name>noi stessi</name> possiamo essere i <name>testimoni</name> fortunati.</p>
+  </div>
+  <div>
+  <p facs="#p4">Finchè si parla di centinaia e
+  migliaia di secoli (<note type="commento">dicon essi</note>) si ha un bel <orig>giuoco</orig> e le <name>ipotesi</name> si appoggiano nell'aria. Ora eccomi a contentarli.</p>
+</div>
+<div>
+  <p facs="#p5">L'ultimo grosso <name>molare</name> o il cosi detto dente della sapienza è
+  <name>parte</name> piccolissima del nostro <name>corpo</name>, ma nella sua <name>evoluzione</name> ci porge uno dei <name>fatti</name> più salienti di <name>darwinismo</name>.</p> 
+  </div>
+  <div>
+  <p facs="#p6">Il
+  <persName>Darwin</persName> toccò questo <name>problema</name> con qualche <name>riserbo</name>, mostrandosi disposto a credere che questo <name>dente</name> tenda a rendersi rudimentario nelle <name>razze</name> umane più alte.</p> 
+  </div>
+  <div>
+  <p facs="#p7">Egli dice
+  che il terzo <name>molare</name> è nell'<name>uomo</name> più piccolo degli altri due 
+  <name>molari</name>, ciò che si osserva anche nel <orig>cimpanzè</orig> e nell'<orig>ourang</orig> e non mette che due sole <name>radici</name>.</p> 
+  </div>
+  <div>
+  <p facs="#p8">Aggiunge che esso 
+  non spunta che verso il 17° anno e tende ad ammalare e a 
+  cadere prima degli altri suoi <name>compagni</name>. Nello stesso <name>tempo</name> 
+  presenta maggiori <name>differenze</name>, tanto che nell'<name>epoca</name> del suo <name>svi-
+  luppo</name>, quanto nelle sue <name>forme</name>.</p>
+  </div>
+  <div>
+  <p facs="#p9">Nelle <name>razze</name> <orig>negre</orig> invece il 
+  dente della sapienza avrebbe tre <name>radici</name> distinte, sarebbe
+  abitualmente costituito e differirebbe nella sua <name>grandezza</name> meno che nelle <name>razze</name> caucasiche.</p> 
+  </div>
+  <div>
+  <p facs="#p10"><persName>Schaafhausen</persName> spiega
+  queste <name>differenze</name> col dire, che la <name>parte</name> dentale posteriore 
+  delle <name>mascelle</name> è sempre accorciata negli <name>uomini</name> civili, e 
+  <persName>Darwin</persName> crede che questo <name>fatto</name> anatomico si spiega facilmente, perchè noi di <name>razze</name> alte usiamo d'ordinario di <name>cibi</name> 
+  cotti e più molli,e quindi adoperiamo molto meno le nostre 
+  <name>mascelle</name>.</p>
+  </div>
+  <div>
+  <p facs="#p11"><persName>Schaafhausen</persName>, dal <name>canto</name> suo, osservò un grande 
+  <name>sviluppo</name> della <name>parte</name> posteriore dentale delle <name>mascelle</name>, non 
+  solo nei <trait type="ethnicity" key="rus"><desc>Russi</desc></trait> e negli <trait type="ethnicity" key="aus"><desc>Australiani</desc></trait>, ma anche nei <trait type="ethnicity" key="alb"><desc>Malesi</desc></trait>.</p>
+</div>
+<div>
+  <p facs="#p12">Il <name>problema</name> proposto dal <persName>Darwin</persName> e <orig>colla</orig> sua solita <name>modestia</name> 
+  dato solo come probabilmente risolto, rimaneva però anche 
+  oggi nello stesso <name>dato</name> d'<name>incertezza</name>, benchè in esso si trovi 
+  uno degli <name>argomenti</name> più favorevoli o più contrari alla <name>teorica</name> dell'<name>evoluzionismo</name>.</p> 
+  </div>
+  <div>
+  <p facs="#p13">Perfino il <persName>Magitot</persName> e il <persName>Lambert</persName>, che 
+  in questo ultimo <name>tempo</name> si occuparono profondamente delle 
+  <name>anomalie</name> del <name>sistema</name> dentario e della sua <name>morfologia</name>, hanno 
+  aggiunto poco o nulla alla <name>divinazione</name> del <rs type="person" ref="#darwin">grande 
+  naturalista inglese</rs>.</p> 
+  </div>
+  <div>
+  <p facs="#p14">Il <persName>Magitot</persName>, che è forse la prima <name>autorità</name> in 
+  <name>fatto</name> di <name>denti</name>, ha poca <name>tendenza</name> a credere, che in <name>fatto</name> di 
+  <name>denti</name> i <name>crani</name> antichi fossero più vicini dei nostri alle <name>scimmie</name>.</p> 
+  </div>
+  <div>
+  <p facs="#p15"><rs type="person" ref="#magitot">Egli</rs> cita <persName>Mummery</persName>, il quale ha trovato comuni le 
+  <name>anomalie</name> dentarie anche nei <name>teschi</name> dei <trait type="ethnicity" key="rom"><desc>romani antichi</desc></trait>.</p> 
+  </div>
+  <div>
+  <p facs="#p16">Furono infatti trovati in <rs type="ethnicity" ref="#romaniAntichi">essi</rs> molti <name>casi</name> di <rs type="disease" ref="https://meshb.nlm.nih.gov/record/ui?name=Atresia">atresia</rs> delle <name>arcate</name> 
+  dentarie e sopra <num value="143">143</num> <name>crani</name>, <num>8</num> mancavano dell'ultimo <name>molare</name>, benchè la loro <name>età</name> fosse adulta, e <num value="5">cinque</num> altri presen<pb n="35"/>tavan diverse altre <name>anomalie</name>.</p> 
+  </div>
+  <div>
+  <p facs="#p17">Sopra <num value="76">76</num> <name>crani</name> <trait type="ethnicity" key="ang"><desc>anglosassoni</desc></trait>
+  studiati dallo stesso <persName>Mummery</persName>, si trovarono <num value="5">cinque</num> <name>casi</name>
+  di <name>assenza</name> dell'ultimo <name>molare</name> e <orig>una avere</orig> una <name>deviazione</name>
+  nella <name>direzione</name> dei <num value="2">due</num> primi <name>transpodi</name> superiori.</p> 
+  </div>
+  <div>
+  <p facs="#p18">Nelle 
+  <name>razze</name> antiche si trovarono <orig>in complesso</orig> <num>43</num> <name>anomalie</name> sopra 
+  <num value="458">458</num> <name>crani</name>, <name>cifre</name> che, secondo il <persName>Magitot</persName>, non si allotanerebbero sensibilmente da quelle che si riscontrano nei <name>crani</name> 
+  moderni.</p>
+  </div>
+  <div>
+  <p facs="#p19">L'<rs type="persone" ref="#magitot">egregio antropologo francese</rs>, che non è certo 
+  che nelle <name>razze</name> contemporanee gli <name>uomini</name> di <name>tipo</name> basso, 
+  anche per le <name>forme</name> e il <name>volume</name> dei loro <name>denti</name>, si avvicinano alle <name>scimmie</name>.</p>
+</div>
+<div>
+  <p facs="#p20">A <rs type="person" ref="#mantegazza">me</rs> non rimaneva che di osservare per <name>conto</name>, raccogliendo dalla ricca <name>raccolta</name> craniologica del <orgName>Museo 
+  nazionale d'antropologia di Firenze</orgName>, i <name>fatti</name> per abbattere o 
+  per confermare la <name>divinazione</name> darwiniana sull'ultimo <name>molare</name>.</p> 
+  </div>
+  <div>
+  <p facs="#p21">Dovendo mettere da parte tutti i <name>denti</name> di <name>uomini</name> 
+  troppo giovani o troppo vecchi o quelli troppo guasti, non 
+  ho potuto disporre che di <num value="1219">1219</num> crani, distribuiti in <num value="3">tre</num> <name>serie</name> e nelle seguenti <name>proporzioni</name>:
+  <list>
+  <item><name>Crani</name> moderni di <name>razze</name> alte......<num>844</num></item>
+  <item><name>Crani</name> moderni di <name>razze</name> inferiori....<num>277</num></item>
+  <item><name>Crani</name> antichissimi (<trait type="ethnicity" key="etr"><desc>etruschi</desc></trait>,<trait type="ethnicity" key="rom"><desc> romani</desc></trait>,<trait type="ethnicity" key="fen"><desc> fenici</desc></trait>) <num value="125">125</num></item>
+  </list></p>
+</div>
+<div>
+  <p facs="#p22">Un grosso <name>volume</name> basta appena a raccogliere la <name>descrizione</name> dei singoli <name>fatti</name>, ma qui voglio accennare soltanto 
+  alle <name>conclusioni</name> più importanti, che risultano dalle mie <name>ricerche</name>.</p>
+  </div>
+  <div>
+  <p facs="#p23">Nelle <name>razze</name> inferiori il terzo <name>molare</name> manca assai più di 
+  raro che nelle <name>razze</name> e precisamente nella <name>proporzione</name> del <num value="19.86">19,86 per cento</num>, del <num value="42.42">42,42</num> per le seconde. 
+  La <name>differenza</name> è quindi maggiore del <w lemma="doppio" pos="n">doppio</w>.</p>
+  </div>
+  <div>
+  <p facs="#p24">L'<rs type="disease" ref="https://it.wikipedia.org/wiki/Edentulia">atrofia</rs> del terzo <name>molare</name> si verifica <orig>meno frequente</orig> 
+  nelle <name>razze</name> alte che nelle basse. Essa è rappresentata dal <num value="10.90">10,90 per cento</num> nelle prime, dal <num value="20.58">20,58</num> per le seconde.</p> 
+  </div>
+  <div>
+  <p facs="#p25">L'<rs type="disease" ref="https://it.wikipedia.org/wiki/Ectopia">ectopia</rs> è un fatto quasi conforme in tutti i <name>crani</name>, di 
+  qualunque <name>razza</name> essi siano, e lo stesso può dirsi per la <name>cadute</name> premature.</p>
+  </div>
+  <div>
+  <p facs="#p26">Sommando insieme tutti i <name>casi</name> di <name>abnormalità</name> che può 
+  presentare il terzo <name>molare</name>, compresa la massima fra tutti, 
+  che è l'<name>assenza</name> del dente, troviamo che nelle <name>razze</name> basse 
+  vi è quasi un <name>numero</name> eguale di <name>denti</name> normali e di anormali (<num value="50.51">50,51 per cento</num> di <name>normali</name><gap><desc>,</desc></gap> <num value="49.46">49,46</num> di <name>anormali</name>) mentre 
+  negli <name>uomini</name> di <name>razza</name> alta l'<name>abnormalità</name> è la <name>regola</name>, la <name>normalità</name>, l'<name>eccezione</name> (<num value="37.09">37,09</num> di <name>normali</name>, <num value="62.91">62,91</num> di <name>anormali</name>).</p>
+  </div>
+  <div>
+  <p facs="#p27">I <name>crani</name> antichi per la <name>deficenza</name> del terzo <name>molare</name> stanno 
+  fra i bassi e gli alti di <name>razze</name> moderne. L'<name>assenza</name> cioè si 
+  nota <orig><num value="27.34">27,34 per cento</num></orig>, l'<rs type="disease" ref="https://it.wikipedia.org/wiki/Edentulia">atrofia</rs> il <num value="16.41">16,41 per cento</num> la <name>caduta</name> prematura invece è meno frequente che in tutti i 
+  <name>crani</name> moderni presi insieme.</p>
+  </div>
+  <div>
+  <p facs="#p28">Da queste <name>ricerche</name> spicca dunque in tutto il suo <name>splendore</name> la bella <name>divinazione</name> di <persName>Darwin</persName>, la quale <note>trova nelle mie 
+  <name>osservazioni</name> una piena <name>conferma</name></note>. Non è quindi temerario
+  il supporre, che in un <name>tempo</name> più o meno remoto il terzo <name>molare</name> possa sparire dalle mascelle umane.</p>  
+        <closer>
+          <signed>Paolo Mantegazza</signed>
+        </closer>
+     </div>
+    <!-- Inserisci qui il contenuto del testo -->
+    </body>
+  </text>
+  <facsimile>
+  <surface xml:id="img1" n="1" facs="Mantegazza-1.png">
+   <zone xml:id="p1" ulx="0" uly="2" lrx="100" lry="18"/>
+    <zone xml:id="p2" ulx="0" uly="21" lrx="100" lry="107"/>
+    <zone xml:id="p3" ulx="0" uly="93" lrx="100" lry="147"/>
+    <zone xml:id="p4" ulx="0" uly="133" lrx="100" lry="174"/>
+    <zone xml:id="p5" ulx="0" uly="176" lrx="100" lry="213"/>
+    <zone xml:id="p6" ulx="0" uly="203" lrx="100" lry="253"/>
+    <zone xml:id="p7" ulx="0" uly="243" lrx="100" lry="293"/>
+    <zone xml:id="p8" ulx="0" uly="283" lrx="100" lry="347"/>
+    <zone xml:id="p9" ulx="0" uly="336" lrx="100" lry="389"/>
+    <zone xml:id="p10" ulx="0" uly="376" lrx="100" lry="472"/>
+    <zone xml:id="p11" ulx="0" uly="462" lrx="100" lry="502"/>
+    <zone xml:id="p12" ulx="0" uly="504" lrx="100" lry="570"/>
+    <zone xml:id="p13" ulx="0" uly="560" lrx="100" lry="627"/>
+    <zone xml:id="p14" ulx="0" uly="615" lrx="100" lry="667"/>
+    <zone xml:id="p15" ulx="0" uly="655" lrx="100" lry="679"/>
+    <zone xml:id="p16" ulx="0" uly="670" lrx="100" lry="765"/>
+  </surface>
+  <surface xml:id="img2" n="2" facs="Mantegazza-2.png">
+  <zone xml:id="p17" ulx="0" uly="3" lrx="100" lry="61"/>
+  <zone xml:id="p18" ulx="0" uly="48" lrx="100" lry="113"/>
+  <zone xml:id="p19" ulx="0" uly="101" lrx="100" lry="171"/>
+  <zone xml:id="p20" ulx="0" uly="173" lrx="100" lry="239"/>
+  <zone xml:id="p21" ulx="0" uly="228" lrx="100" lry="250"/>
+  <zone xml:id="p22" ulx="0" uly="251" lrx="100" lry="259"/>
+  <zone xml:id="p23" ulx="0" uly="260" lrx="100" lry="311"/>
+  <zone xml:id="p24" ulx="0" uly="313" lrx="100" lry="361"/>
+  <zone xml:id="p25" ulx="0" uly="362" lrx="100" lry="391"/>
+  <zone xml:id="p26" ulx="0" uly="392" lrx="100" lry="430"/>
+  <zone xml:id="p27" ulx="0" uly="392" lrx="100" lry="430"/>
+  <zone xml:id="p28" ulx="0" uly="392" lrx="100" lry="430"/>
+  </surface>
+  </facsimile>
+</TEI>

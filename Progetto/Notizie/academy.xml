@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<!-- <?xml-model href="tei-lite.rng"?> -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="4.0.1">
+  <teiHeader>
+    <!-- <encodingDesc></encodingDesc> -->
+    <fileDesc>
+      <titleStmt>
+      <title>Notizia</title> <!--titolo fittizio che ci deve essere per forza-->
+        <author>Academy</author>
+        <respStmt>
+          <resp>Conversione TEI P5 a cura di</resp>
+          <name>S. Solimani,</name> 
+          <name>E. Sardo</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>La Rassegna Settimanale</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date when="1879" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+  <author ref="#academy">Academy</author>
+  <title level="j">La Rassegna Settimanale</title>
+  <biblScope unit="volume">3</biblScope>
+  <biblScope unit="issue">60</biblScope>
+  <date when="1879">1879</date>
+  <biblScope unit="page" from="160" to="160">160</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+  <body>
+  <div>
+<p facs="#p1">
+  La fonderia di <location><placeName>Monaco</placeName></location> è stata incaricata di fondere il
+  <objectType>Monumento nazionale tedesco</objectType> che si ha in animo di erigere nel
+  <location><placeName>Niederwald, presso <placeName>Bingen sul Reno</placeName></placeName></location>.
+  Il lavoro è designato dal <persName>prof. Schilling</persName> di
+  <location><placeName>Dresda</placeName></location>. 
+</p>  
+<p facs="#p2">
+  Sopra un piedistallo alto
+  <num value="24">ventiquattro</num> metri sta una figura in piedi della Germania che addita colla mano
+  alzata il simbolo dell'unità germanica, la corona imperiale. La figura, alta
+  <num value="10">dieci</num> metri è considerata, da persone competenti, un trionfo dell'arte plastica
+  tedesca. 
+</p>
+<p facs="#p3">  
+  Il modello deve essere trasportato in breve a <location><placeName>Monaco</placeName></location>
+  con un treno speciale, e sarà messo insieme <orig>avanti</orig> il getto. Il costo del
+  <objectType>Monumento</objectType> è finora di <num value="1.100.000">1.100.000</num>, ma ne occorrono
+  altri <num value="350.000">350.000</num>. (<orgName>Academy</orgName>)
+</p>
+  </div>
+  </body>
+  </text>
+  <facsimile>
+  <surface xml:id="img1" n="1" facs="NotiziaAcademy.png">
+    <zone xml:id="p1" ulx="0" uly="0" lrx="410" lry="50"/>
+    <zone xml:id="p2" ulx="0" uly="51" lrx="410" lry="110"/>
+    <zone xml:id="p3" ulx="0" uly="111" lrx="410" lry="162"/>
+  </surface>
+  <!--ulx, uly: coordinate dell’angolo in alto a sinistra della zona.
+lrx, lry: coordinate dell’angolo in basso a destra-->
+</facsimile>
+  </TEI>
